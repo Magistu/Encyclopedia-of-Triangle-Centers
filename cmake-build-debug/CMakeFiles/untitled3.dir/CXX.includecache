@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Dim/Documents/C_C++/source/crossingpoints/ETC.h
+R2Graph.h
+C:/Users/Dim/Documents/C_C++/source/crossingpoints/R2Graph.h
+
+C:/Users/Dim/Documents/C_C++/source/crossingpoints/R2Graph.h
+cmath
+-
+iostream
+-
+
+C:/Users/Dim/Documents/C_C++/source/crossingpoints/main.cpp
+iostream
+-
+vector
+-
+ETC.h
+C:/Users/Dim/Documents/C_C++/source/crossingpoints/ETC.h
+
